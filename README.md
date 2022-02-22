@@ -1,1 +1,3 @@
-# eAS
+# Advanced Stats for eSports
+### ases.gg
+
